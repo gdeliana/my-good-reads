@@ -1,0 +1,12 @@
+.bookResult {
+	display: block;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	margin: var(--spacing-sm, 10px) var(--spacing-xs, 10px);
+	padding: var(--spacing-xs, 10px);
+}
+
+.img {
+	margin: var(--spacing-sm, 10px) 0px var(--spacing-sm, 10px) auto;
+display: block;
+border: 1px solid gray;
+}

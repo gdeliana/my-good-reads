@@ -1,0 +1,12 @@
+.book-favourite + div {
+	border-top: 1px solid grey;
+}
+
+.book-favourite {
+	padding-top: var(--spacing-xs, 10px);
+	margin: var(--spacing-xs, 10px) auto;
+}
+
+.book-favourite .trash-icon {
+	bottom: 1px;
+}
